@@ -212,7 +212,7 @@ function App() {
 
             {screen === 'question' && revealedCount < 4 && (
               <div className="answers-wait" aria-live="polite">
-                Loading option {String.fromCharCode(65 + revealedCount)} for Miss Saanvi Sharma…
+                Loading options for Miss Saanvi Sharma…
               </div>
             )}
 
