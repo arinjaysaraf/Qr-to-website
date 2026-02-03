@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A romantic Valentine's Day proposal website",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/Qr-to-website",
+  "homepage": "https://arinjaysaraf.github.io/Qr-to-website",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
